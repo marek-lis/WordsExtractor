@@ -1,0 +1,524 @@
+﻿[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:05:56.73,0:05:58.33,Default,,0,0,0,,Pio! Pio! Pio!
+Dialogue: 0,0:07:03.65,0:07:05.01,Default,,0,0,0,,{\i1}Ciao{\i0} Rome!
+Dialogue: 0,0:07:07.77,0:07:09.25,Default,,0,0,0,,{\i1}Ciao{\i0} world!
+Dialogue: 0,0:07:25.05,0:07:26.69,Default,,0,0,0,,What have we forgotten?
+Dialogue: 0,0:07:30.09,0:07:32.41,Default,,0,0,0,,What have we forgotten?
+Dialogue: 0,0:07:35.73,0:07:37.29,Default,,0,0,0,,We have forgotten you!
+Dialogue: 0,0:07:47.89,0:07:49.45,Default,,0,0,0,,Let me be very clear:
+Dialogue: 0,0:07:51.41,0:07:54.09,Default,,0,0,0,,I'm here for one, very simple reason.
+Dialogue: 0,0:07:56.01,0:07:59.13,Default,,0,0,0,,To not forget anyone.
+Dialogue: 0,0:08:00.41,0:08:03.85,Default,,0,0,0,,God does not leave anyone behind.
+Dialogue: 0,0:08:04.89,0:08:07.89,Default,,0,0,0,,That is what He told me\Nwhen I decided to serve Him.
+Dialogue: 0,0:08:08.81,0:08:10.97,Default,,0,0,0,,And it is what I say to you now.
+Dialogue: 0,0:08:12.89,0:08:15.05,Default,,0,0,0,,I serve God.
+Dialogue: 0,0:08:15.21,0:08:17.09,Default,,0,0,0,,I serve you.
+Dialogue: 0,0:08:23.89,0:08:27.89,Default,,0,0,0,,We've forgotten\Nthe women and children
+Dialogue: 0,0:08:28.93,0:08:33.01,Default,,0,0,0,,who will change this world\Nwith their love and their kindness.
+Dialogue: 0,0:08:33.69,0:08:39.01,Default,,0,0,0,,And with their marvellous,\Ndivine disposition to play.
+Dialogue: 0,0:08:41.97,0:08:45.33,Default,,0,0,0,,Play is the only authentic means we have
+Dialogue: 0,0:08:45.49,0:08:48.69,Default,,0,0,0,,to make us feel in harmony with life.
+Dialogue: 0,0:08:50.53,0:08:56.29,Default,,0,0,0,,And to be in harmony with God\Nwe have to be in harmony with life.
+Dialogue: 0,0:08:57.97,0:08:59.73,Default,,0,0,0,,We don't have a choice:
+Dialogue: 0,0:09:00.45,0:09:03.17,Default,,0,0,0,,we must be in harmony with God!
+Dialogue: 0,0:09:11.53,0:09:14.13,Default,,0,0,0,,And what else have we forgotten?
+Dialogue: 0,0:09:22.01,0:09:24.81,Default,,0,0,0,,We have forgotten to masturbate
+Dialogue: 0,0:09:27.25,0:09:29.93,Default,,0,0,0,,to use contraceptives
+Dialogue: 0,0:09:32.81,0:09:34.61,Default,,0,0,0,,to get abortions
+Dialogue: 0,0:09:34.77,0:09:38.01,Default,,0,0,0,,to celebrate gay marriages
+Dialogue: 0,0:09:38.61,0:09:42.41,Default,,0,0,0,,to allow priests to love each other,\Nand even to get married.
+Dialogue: 0,0:09:44.85,0:09:49.41,Default,,0,0,0,,We've forgotten that we can\Ndecide to die if you detest living
+Dialogue: 0,0:09:49.57,0:09:52.57,Default,,0,0,0,,we've forgotten\Nto have sexual relations
+Dialogue: 0,0:09:52.73,0:09:57.37,Default,,0,0,0,,for purposes other than procreation\Nwithout feeling guilty!
+Dialogue: 0,0:10:01.01,0:10:04.37,Default,,0,0,0,,To divorce, to let nuns say mass
+Dialogue: 0,0:10:05.69,0:10:09.53,Default,,0,0,0,,to make babies in all the ways\Nscience has discovered
+Dialogue: 0,0:10:09.69,0:10:12.29,Default,,0,0,0,,and will continue to discover.
+Dialogue: 0,0:10:12.45,0:10:14.21,Default,,0,0,0,,In short
+Dialogue: 0,0:10:14.37,0:10:16.61,Default,,0,0,0,,my dear, dear children
+Dialogue: 0,0:10:17.45,0:10:19.37,Default,,0,0,0,,not only have we forgotten to play
+Dialogue: 0,0:10:21.61,0:10:23.61,Default,,0,0,0,,we have forgotten to be happy.
+Dialogue: 0,0:10:28.77,0:10:32.93,Default,,0,0,0,,And there is only one road\Nthat leads to happiness.
+Dialogue: 0,0:10:36.77,0:10:40.33,Default,,0,0,0,,And that road is called freedom.
+Dialogue: 0,0:10:43.65,0:10:46.69,Default,,0,0,0,,{\i1}Sancti Apostoli Petrus et Paulus{\i0}
+Dialogue: 0,0:10:48.13,0:10:50.81,Default,,0,0,0,,{\i1}de quorum potestate\Net auctoritate confidimus...{\i0}
+Dialogue: 0,0:10:50.97,0:10:54.69,Default,,0,0,0,,What are you saying, Lenny?\NWhat's all this nonsense?
+Dialogue: 0,0:10:55.73,0:10:58.33,Default,,0,0,0,,You're not the Pope, Lenny!
+Dialogue: 0,0:10:59.05,0:11:00.81,Default,,0,0,0,,I am the Pope!
+Dialogue: 0,0:11:00.97,0:11:02.97,Default,,0,0,0,,I'm the Pope, and you, Lenny
+Dialogue: 0,0:11:03.13,0:11:05.57,Default,,0,0,0,,are no longer a member of the Church.
+Dialogue: 0,0:11:06.97,0:11:10.29,Default,,0,0,0,,You are done with God, Lenny.
+Dialogue: 0,0:11:17.89,0:11:19.41,Default,,0,0,0,,What you mean done?
+Dialogue: 0,0:11:21.17,0:11:23.49,Default,,0,0,0,,I just barely got started with God.
+Dialogue: 0,0:11:35.25,0:11:36.89,Default,,0,0,0,,Who are you, Lenny?
+Dialogue: 0,0:11:37.05,0:11:38.97,Default,,0,0,0,,I am a contradiction.
+Dialogue: 0,0:11:40.57,0:11:43.81,Default,,0,0,0,,Like God.\NOne in three and three in one.
+Dialogue: 0,0:11:44.97,0:11:46.73,Default,,0,0,0,,Like Mary, virgin and mother.
+Dialogue: 0,0:11:47.65,0:11:49.33,Default,,0,0,0,,Like man, good and evil.
+Dialogue: 0,0:12:02.05,0:12:03.05,Default,,0,0,0,,I am the Pope.
+Dialogue: 0,0:12:06.89,0:12:08.25,Default,,0,0,0,,I am the Pope.
+Dialogue: 0,0:12:31.89,0:12:33.57,Default,,0,0,0,,Not knowing your tastes,\NYour Holiness
+Dialogue: 0,0:12:33.73,0:12:35.89,Default,,0,0,0,,we took the liberty of preparing\Na little of everything.
+Dialogue: 0,0:12:36.05,0:12:39.29,Default,,0,0,0,,Didn't anyone tell you I don't eat much?\NHardly anything, in fact!
+Dialogue: 0,0:12:39.45,0:12:42.09,Default,,0,0,0,,All I have in the morning\Nis a Cherry Coke Zero.
+Dialogue: 0,0:12:44.25,0:12:45.85,Default,,0,0,0,,We will get some right away.
+Dialogue: 0,0:12:46.01,0:12:48.45,Default,,0,0,0,,What's your name?\N- Domen, Your Holiness.
+Dialogue: 0,0:12:48.61,0:12:50.33,Default,,0,0,0,,I am Your Holiness's major-domo.
+Dialogue: 0,0:12:50.97,0:12:53.53,Default,,0,0,0,,Do you know what Domen means?\N- 'One who belongs to God'.
+Dialogue: 0,0:12:53.69,0:12:56.33,Default,,0,0,0,,Precisely.\NSo, by transitive property...
+Dialogue: 0,0:12:57.85,0:12:59.29,Default,,0,0,0,,you belong to me.
+Dialogue: 0,0:13:01.65,0:13:03.65,Default,,0,0,0,,How did you sleep, Your Holiness?
+Dialogue: 0,0:13:04.69,0:13:06.61,Default,,0,0,0,,I had an amusing dream.
+Dialogue: 0,0:13:07.53,0:13:10.49,Default,,0,0,0,,Cardinal Ozolins and Cardinal Aguirre\Nwere slapping each other
+Dialogue: 0,0:13:10.65,0:13:13.01,Default,,0,0,0,,and I said the most outrageous things\Nto the crowd
+Dialogue: 0,0:13:13.05,0:13:14.69,Default,,0,0,0,,in Saint Peter's Square.
+Dialogue: 0,0:13:17.65,0:13:20.81,Default,,0,0,0,,Well then, I'll wait here\Nfor my Cherry Coke Zero.
+Dialogue: 0,0:13:35.13,0:13:38.61,Default,,0,0,0,,In the meantime would Your Holiness\Ncare for a regular Diet Coke?
+Dialogue: 0,0:13:38.77,0:13:42.01,Default,,0,0,0,,Oh... let's not utter heresies, Domen.
+Dialogue: 0,0:13:42.17,0:13:45.65,Default,,0,0,0,,It's death\Nto settle for things in life.
+Dialogue: 0,0:13:45.81,0:13:49.45,Default,,0,0,0,,Holy Father, while you wait,\Nmay I present Sister Bice
+Dialogue: 0,0:13:49.61,0:13:52.53,Default,,0,0,0,,from Nepi,\Nin delightful province of Lazio.
+Dialogue: 0,0:13:52.69,0:13:54.77,Default,,0,0,0,,She will be your personal cook.
+Dialogue: 0,0:13:54.93,0:13:58.61,Default,,0,0,0,,Sister Bice also served three pontiffs\Nwho came before you.
+Dialogue: 0,0:13:58.77,0:14:02.49,Default,,0,0,0,,When she was young,\Nshe was a missionary in India
+Dialogue: 0,0:14:02.65,0:14:05.41,Default,,0,0,0,,and fortunately for us,\Nshe speaks a good English.
+Dialogue: 0,0:14:05.57,0:14:07.29,Default,,0,0,0,,Well, my sweet Holy Father
+Dialogue: 0,0:14:07.45,0:14:10.17,Default,,0,0,0,,now what is it you would like\Nto have for your lunch?
+Dialogue: 0,0:14:11.73,0:14:13.77,Default,,0,0,0,,You just tell your Bice what you want
+Dialogue: 0,0:14:13.93,0:14:15.17,Default,,0,0,0,,and I'll prepare it for you.
+Dialogue: 0,0:14:15.33,0:14:19.61,Default,,0,0,0,,{\i1}Matriciana, pasta e fagioli,\Ncarbonara, lasagne...{\i0}
+Dialogue: 0,0:14:19.77,0:14:22.21,Default,,0,0,0,,Am I mistaken, did she say 'my sweet'?
+Dialogue: 0,0:14:22.37,0:14:24.97,Default,,0,0,0,,Your Holiness,\NSister Bice is rather... quaint.
+Dialogue: 0,0:14:25.13,0:14:28.01,Default,,0,0,0,,No, Domen, she is not quaint.
+Dialogue: 0,0:14:29.17,0:14:31.25,Default,,0,0,0,,She's friendly.\NMother...
+Dialogue: 0,0:14:32.45,0:14:36.09,Default,,0,0,0,,Let me explain something to you,\Nthat you, in your long life
+Dialogue: 0,0:14:36.25,0:14:39.45,Default,,0,0,0,,have not yet had the occasion\Nto understand:
+Dialogue: 0,0:14:40.73,0:14:43.57,Default,,0,0,0,,friendly relationships are dangerous.
+Dialogue: 0,0:14:43.73,0:14:45.93,Default,,0,0,0,,They lend themselves to ambiguities
+Dialogue: 0,0:14:46.09,0:14:48.49,Default,,0,0,0,,misunderstandings, and conflicts
+Dialogue: 0,0:14:48.65,0:14:50.69,Default,,0,0,0,,and they always end badly.
+Dialogue: 0,0:14:50.85,0:14:53.33,Default,,0,0,0,,Formal relationships,\Non the other hand
+Dialogue: 0,0:14:53.49,0:14:55.69,Default,,0,0,0,,are as clear as spring water.
+Dialogue: 0,0:14:55.85,0:14:58.09,Default,,0,0,0,,Their rules are carved in stone.
+Dialogue: 0,0:14:58.97,0:15:02.29,Default,,0,0,0,,There's no risk of being misunderstood\Nand they last forever.
+Dialogue: 0,0:15:02.45,0:15:03.85,Default,,0,0,0,,Now, you need to know
+Dialogue: 0,0:15:04.01,0:15:08.53,Default,,0,0,0,,I do not appreciate\Nfriendly relationships.
+Dialogue: 0,0:15:09.77,0:15:12.41,Default,,0,0,0,,But I'm a great admirer\Nof formal ones.
+Dialogue: 0,0:15:13.61,0:15:16.17,Default,,0,0,0,,Where there are formal relationships\Nthere are rites
+Dialogue: 0,0:15:16.33,0:15:20.93,Default,,0,0,0,,and where there are rites\Nthe earth order reigns.
+Dialogue: 0,0:15:26.85,0:15:30.61,Default,,0,0,0,,Your Holiness, His Eminence\Nthe Cardinal Secretary of State
+Dialogue: 0,0:15:30.77,0:15:32.61,Default,,0,0,0,,and the Prefects\Nof the Various Congregations
+Dialogue: 0,0:15:32.77,0:15:35.25,Default,,0,0,0,,can't wait to make your acquaintance\Nand to welcome you.
+Dialogue: 0,0:15:36.25,0:15:37.49,Default,,0,0,0,,Well, they're gonna have to.
+Dialogue: 0,0:15:37.65,0:15:40.73,Default,,0,0,0,,Because first I have to drink\Nmy Cherry Coke Zero.
+Dialogue: 0,0:16:44.61,0:16:48.13,Default,,0,0,0,,Look, guys,\Nthe Holy Spirit is blowing away.
+Dialogue: 0,0:16:48.29,0:16:50.69,Default,,0,0,0,,Speaking of the Holy Spirit,\Nwhat do you think?
+Dialogue: 0,0:16:50.85,0:16:52.45,Default,,0,0,0,,Did He illumine the cardinals?
+Dialogue: 0,0:16:52.61,0:16:55.57,Default,,0,0,0,,The naiveté of you Africans\Nis really touching.
+Dialogue: 0,0:16:55.73,0:16:58.93,Default,,0,0,0,,Do you really believe\Nthat the Holy Spirit elects the Pope?
+Dialogue: 0,0:16:59.09,0:17:00.85,Default,,0,0,0,,We Africans, no
+Dialogue: 0,0:17:01.01,0:17:04.01,Default,,0,0,0,,but we Catholics, yes,\Nthat is what we believe.
+Dialogue: 0,0:17:04.17,0:17:05.45,Default,,0,0,0,,Don't you, Ozolins?
+Dialogue: 0,0:17:05.61,0:17:10.25,Default,,0,0,0,,Well the Holy Spirit is not stupid\Nbut He is ironic and cunning.
+Dialogue: 0,0:17:10.41,0:17:11.41,Default,,0,0,0,,I don't understand.
+Dialogue: 0,0:17:11.57,0:17:15.21,Default,,0,0,0,,What he's trying to tell you\Nis that here in Vatican...
+Dialogue: 0,0:17:15.37,0:17:19.33,Default,,0,0,0,,the Holy Spirit\Nis just another name for Voiello.
+Dialogue: 0,0:17:19.49,0:17:23.65,Default,,0,0,0,,Belardo is forty-seven years old.
+Dialogue: 0,0:17:24.29,0:17:25.85,Default,,0,0,0,,That's young.
+Dialogue: 0,0:17:26.01,0:17:30.25,Default,,0,0,0,,Which means we won't live\Nto see another pope. How sad!
+Dialogue: 0,0:17:30.41,0:17:33.29,Default,,0,0,0,,Caltanissetta, it's already a miracle
+Dialogue: 0,0:17:33.45,0:17:36.29,Default,,0,0,0,,that you've lived long enough\Nto see this one.
+Dialogue: 0,0:17:37.25,0:17:43.05,Default,,0,0,0,,I'm not so sure that Voiello\Nhas shown good leadership this time.
+Dialogue: 0,0:17:43.21,0:17:46.21,Default,,0,0,0,,I've never\Nreally trusted Voiello myself.
+Dialogue: 0,0:17:46.37,0:17:47.93,Default,,0,0,0,,He's the devil incarnate.
+Dialogue: 0,0:17:48.09,0:17:53.61,Default,,0,0,0,,Spencer would have been\Nthe right choice.
+Dialogue: 0,0:17:53.77,0:17:55.41,Default,,0,0,0,,Far too independent
+Dialogue: 0,0:17:55.57,0:17:58.69,Default,,0,0,0,,and that wouldn't have been\Na good news for us cardinals.
+Dialogue: 0,0:18:03.73,0:18:04.81,Default,,0,0,0,,True.
+Dialogue: 0,0:18:05.65,0:18:09.41,Default,,0,0,0,,But all we have in exchange\Nis a telegenic puppet.
+Dialogue: 0,0:18:09.57,0:18:13.37,Default,,0,0,0,,And that means\Nthat he can be manipulated.
+Dialogue: 0,0:18:13.53,0:18:18.01,Default,,0,0,0,,This is a masterpiece\Nof Voiello's diplomatic cunning
+Dialogue: 0,0:18:18.17,0:18:21.57,Default,,0,0,0,,the way he shepherded\Nthe cardinals' votes to Belardo.
+Dialogue: 0,0:18:21.73,0:18:24.29,Default,,0,0,0,,Now Belardo holds office
+Dialogue: 0,0:18:24.45,0:18:26.65,Default,,0,0,0,,but Voiello is pulling the strings.
+Dialogue: 0,0:18:26.81,0:18:30.37,Default,,0,0,0,,And he'll run things\Nthe way we tell him
+Dialogue: 0,0:18:30.53,0:18:34.97,Default,,0,0,0,,because once again we saved his life.
+Dialogue: 0,0:18:35.13,0:18:38.29,Default,,0,0,0,,I may be African, and I may be naive
+Dialogue: 0,0:18:38.45,0:18:40.05,Default,,0,0,0,,but if you ask me...
+Dialogue: 0,0:18:40.21,0:18:43.37,Default,,0,0,0,,you're simplifying the future\Nto an unhealthy degree.
+Dialogue: 0,0:18:44.45,0:18:48.65,Default,,0,0,0,,I'm in agreement\Nwith our African colleague.
+Dialogue: 0,0:18:48.81,0:18:50.01,Default,,0,0,0,,What do you mean by that?
+Dialogue: 0,0:18:50.17,0:18:55.33,Default,,0,0,0,,That you've forgotten\Nto ask one fundamental question.
+Dialogue: 0,0:18:59.77,0:19:02.85,Default,,0,0,0,,What's Spencer going to do now
+Dialogue: 0,0:19:03.01,0:19:07.61,Default,,0,0,0,,that his beloved, detested protégé
+Dialogue: 0,0:19:07.77,0:19:09.45,Default,,0,0,0,,has become pope?
+Dialogue: 0,0:19:42.37,0:19:45.33,Default,,0,0,0,,'My God, my God
+Dialogue: 0,0:19:45.49,0:19:47.65,Default,,0,0,0,,why have you forsaken me?'
+Dialogue: 0,0:19:48.65,0:19:51.17,Default,,0,0,0,,said Jesus before he was about to die.
+Dialogue: 0,0:19:52.25,0:19:55.01,Default,,0,0,0,,Which is what I say to you now,\Nbefore I begin to live.
+Dialogue: 0,0:19:56.65,0:19:59.13,Default,,0,0,0,,God's infinite silence...
+Dialogue: 0,0:20:02.45,0:20:04.57,Default,,0,0,0,,God's infinite silence...
+Dialogue: 0,0:20:06.17,0:20:08.53,Default,,0,0,0,,God's infinite silence.
+Dialogue: 0,0:20:40.41,0:20:42.05,Default,,0,0,0,,Your Holiness...
+Dialogue: 0,0:20:42.21,0:20:44.33,Default,,0,0,0,,your sins.
+Dialogue: 0,0:20:45.81,0:20:47.89,Default,,0,0,0,,I don't have any sins to confess.
+Dialogue: 0,0:20:50.45,0:20:51.45,Default,,0,0,0,,Are you serious?
+Dialogue: 0,0:20:51.61,0:20:54.65,Default,,0,0,0,,My only sin,\N- and it's an enormous one -
+Dialogue: 0,0:20:55.69,0:20:59.65,Default,,0,0,0,,is that my conscience\Ndoes not accuse me of anything.
+Dialogue: 0,0:21:02.21,0:21:05.61,Default,,0,0,0,,{\i1}Ego te absolvo peccatis\Ntuis in nomine Patris{\i0}
+Dialogue: 0,0:21:05.77,0:21:09.05,Default,,0,0,0,,{\i1}et Filii, et Spiritus Sancti.{\i0} Amen.
+Dialogue: 0,0:21:17.17,0:21:21.45,Default,,0,0,0,,If I always heard confessions\Nlike yours, Your Holiness
+Dialogue: 0,0:21:21.61,0:21:23.65,Default,,0,0,0,,I'd be out of a job.
+Dialogue: 0,0:21:26.73,0:21:30.21,Default,,0,0,0,,How many confessions do you hear\Nin the Vatican, Don Tommaso?
+Dialogue: 0,0:21:30.85,0:21:32.05,Default,,0,0,0,,Me?
+Dialogue: 0,0:21:33.37,0:21:34.93,Default,,0,0,0,,The entire Curia
+Dialogue: 0,0:21:35.09,0:21:37.77,Default,,0,0,0,,a good number of nuns and priests
+Dialogue: 0,0:21:37.93,0:21:41.53,Default,,0,0,0,,as well as several lay employees\Nwho work in Vatican City.
+Dialogue: 0,0:21:55.93,0:21:57.13,Default,,0,0,0,,How old are you?
+Dialogue: 0,0:21:58.41,0:21:59.89,Default,,0,0,0,,Sixty-one.
+Dialogue: 0,0:22:00.85,0:22:02.45,Default,,0,0,0,,And how's your eyesight?
+Dialogue: 0,0:22:03.09,0:22:04.93,Default,,0,0,0,,I don't even wear glasses.
+Dialogue: 0,0:22:05.93,0:22:07.37,Default,,0,0,0,,And your hearing?
+Dialogue: 0,0:22:08.09,0:22:11.29,Default,,0,0,0,,My only problem is my hair,\NYour Holiness.
+Dialogue: 0,0:22:11.45,0:22:13.73,Default,,0,0,0,,You mean it's falling out?
+Dialogue: 0,0:22:13.89,0:22:16.61,Default,,0,0,0,,Not only that. Sometimes it hurts.
+Dialogue: 0,0:22:18.77,0:22:20.21,Default,,0,0,0,,Your hair hurts?
+Dialogue: 0,0:22:24.45,0:22:27.05,Default,,0,0,0,,Good, very good!
+Dialogue: 0,0:22:34.17,0:22:36.61,Default,,0,0,0,,I'll be frank, Don Tommaso,\NI need you.
+Dialogue: 0,0:22:37.89,0:22:40.21,Default,,0,0,0,,You must do something very important
+Dialogue: 0,0:22:40.37,0:22:41.97,Default,,0,0,0,,for the eminency of your pontiff.
+Dialogue: 0,0:22:42.13,0:22:44.57,Default,,0,0,0,,Whatever you wish,\NHoly Father. Tell me.
+Dialogue: 0,0:22:44.73,0:22:46.33,Default,,0,0,0,,Come then, I'll tell you\Nin the confessional.
+Dialogue: 0,0:22:48.89,0:22:51.69,Default,,0,0,0,,Confessional booths are so beautiful.
+Dialogue: 0,0:22:51.85,0:22:53.17,Default,,0,0,0,,They look like little mountain huts.
+Dialogue: 0,0:22:55.33,0:22:57.05,Default,,0,0,0,,Do you like the mountains?
+Dialogue: 0,0:22:58.13,0:22:59.81,Default,,0,0,0,,I don't like the snow.
+Dialogue: 0,0:23:09.05,0:23:10.97,Default,,0,0,0,,Here's what I want you to do.
+Dialogue: 0,0:26:46.13,0:26:47.17,Default,,0,0,0,,Ma.
+Dialogue: 0,0:26:48.97,0:26:51.57,Default,,0,0,0,,Don't ever call me Ma.\NCall me Sister Mary.
+Dialogue: 0,0:26:55.01,0:26:55.73,Default,,0,0,0,,What's that?
+Dialogue: 0,0:27:00.37,0:27:01.57,Default,,0,0,0,,My father gave it to me.
+Dialogue: 0,0:27:01.73,0:27:04.53,Default,,0,0,0,,You can give it to me if you like.\NI'll hold on to it for you.
+Dialogue: 0,0:27:04.69,0:27:07.81,Default,,0,0,0,,No. My father said that\NI should always keep it with me.
+Dialogue: 0,0:27:30.37,0:27:31.57,Default,,0,0,0,,Lenny!
+Dialogue: 0,0:27:32.45,0:27:33.85,Default,,0,0,0,,Sister Mary.
+Dialogue: 0,0:27:40.37,0:27:41.41,Default,,0,0,0,,Here you are, my saint.
+Dialogue: 0,0:27:41.57,0:27:43.17,Default,,0,0,0,,No, I'm not a saint.
+Dialogue: 0,0:27:43.33,0:27:44.37,Default,,0,0,0,,Yes.
+Dialogue: 0,0:27:47.29,0:27:48.93,Default,,0,0,0,,Do you still have it on you?
+Dialogue: 0,0:27:53.25,0:27:54.25,Default,,0,0,0,,Always.
+Dialogue: 0,0:27:57.33,0:27:58.25,Default,,0,0,0,,What's this?
+Dialogue: 0,0:28:00.73,0:28:03.65,Default,,0,0,0,,A replica of the grotto\Nof Our Lady of Lourdes.
+Dialogue: 0,0:28:03.81,0:28:05.33,Default,,0,0,0,,It's being restored.
+Dialogue: 0,0:28:06.45,0:28:10.33,Default,,0,0,0,,From now on, you're going to be living\Nat the exact centre of the Church.
+Dialogue: 0,0:28:16.81,0:28:18.69,Default,,0,0,0,,But I don't understand.\NWhat does that mean?
+Dialogue: 0,0:28:18.85,0:28:22.33,Default,,0,0,0,,That means that just now
+Dialogue: 0,0:28:22.49,0:28:25.57,Default,,0,0,0,,the centre of the Church\Ntook a few steps back.
+Dialogue: 0,0:28:31.09,0:28:32.81,Default,,0,0,0,,Do you like the apartment?
+Dialogue: 0,0:28:33.81,0:28:35.09,Default,,0,0,0,,I'll be just fine here.
+Dialogue: 0,0:28:35.25,0:28:37.21,Default,,0,0,0,,You're only a few feet away from me.
+Dialogue: 0,0:28:37.37,0:28:41.37,Default,,0,0,0,,On the plane I read\Nthis amusing description of Rome:
+Dialogue: 0,0:28:41.53,0:28:43.69,Default,,0,0,0,,"A suburb of Vatican City.
+Dialogue: 0,0:28:43.85,0:28:47.53,Default,,0,0,0,,Well, that's not exactly true
+Dialogue: 0,0:28:48.65,0:28:49.69,Default,,0,0,0,,but it will be.
+Dialogue: 0,0:29:09.49,0:29:10.97,Default,,0,0,0,,What's wrong, Lenny?
+Dialogue: 0,0:29:13.69,0:29:15.69,Default,,0,0,0,,What's not wrong, Sister Mary.
+Dialogue: 0,0:29:21.57,0:29:22.77,Default,,0,0,0,,North is that way.
+Dialogue: 0,0:29:25.13,0:29:26.13,Default,,0,0,0,,Where Venice is.
+Dialogue: 0,0:29:35.45,0:29:37.37,Default,,0,0,0,,Listen to me, Lenny.
+Dialogue: 0,0:29:38.45,0:29:41.25,Default,,0,0,0,,Starting today,\Nyou have to lead the Church.
+Dialogue: 0,0:29:41.81,0:29:43.65,Default,,0,0,0,,One billion people.
+Dialogue: 0,0:29:43.81,0:29:45.53,Default,,0,0,0,,One fifth of the world's population.
+Dialogue: 0,0:29:45.69,0:29:47.65,Default,,0,0,0,,Do you understand\Nwhat I'm saying, Lenny?
+Dialogue: 0,0:29:48.69,0:29:52.57,Default,,0,0,0,,One billion people will depend\Non what you say and do.
+Dialogue: 0,0:29:52.73,0:29:58.25,Default,,0,0,0,,They'll make important decisions\N- happy or sad, of life or death -
+Dialogue: 0,0:29:58.41,0:30:01.29,Default,,0,0,0,,in order to obey you,\Nin the name of God.
+Dialogue: 0,0:30:02.81,0:30:07.01,Default,,0,0,0,,All of this creates a new perspective.
+Dialogue: 0,0:30:07.17,0:30:09.17,Default,,0,0,0,,An immense perspective.
+Dialogue: 0,0:30:10.77,0:30:15.89,Default,,0,0,0,,Now, your personal aches,\Nyour enormous sufferings
+Dialogue: 0,0:30:16.05,0:30:17.81,Default,,0,0,0,,your terrible memories...
+Dialogue: 0,0:30:17.97,0:30:20.29,Default,,0,0,0,,It's a harsh thing to say,\NLenny, but I have to say it
+Dialogue: 0,0:30:20.45,0:30:23.01,Default,,0,0,0,,they must take a back seat.
+Dialogue: 0,0:30:24.13,0:30:25.97,Default,,0,0,0,,They are things of this earth.
+Dialogue: 0,0:30:26.13,0:30:29.85,Default,,0,0,0,,Do you understand\Nwhat I'm saying, Lenny?
+Dialogue: 0,0:30:30.01,0:30:32.73,Default,,0,0,0,,I know all your sorrows
+Dialogue: 0,0:30:32.89,0:30:34.61,Default,,0,0,0,,I've lived with them\Ntogether with you
+Dialogue: 0,0:30:34.77,0:30:36.89,Default,,0,0,0,,I've wept over them with you
+Dialogue: 0,0:30:37.05,0:30:38.97,Default,,0,0,0,,but now the time has come for you
+Dialogue: 0,0:30:39.13,0:30:41.57,Default,,0,0,0,,to let your sorrows fade.
+Dialogue: 0,0:30:42.61,0:30:46.57,Default,,0,0,0,,To become irrelevant,\Ndistant memories
+Dialogue: 0,0:30:46.73,0:30:51.01,Default,,0,0,0,,insignificant, vanquished,\Ndestroyed and overpowered
+Dialogue: 0,0:30:51.17,0:30:54.37,Default,,0,0,0,,by the terrible responsibility\Nthat God has given you.
+Dialogue: 0,0:30:56.97,0:30:59.37,Default,,0,0,0,,From now on,\Nyou are no longer Lenny Belardo
+Dialogue: 0,0:30:59.53,0:31:01.73,Default,,0,0,0,,the fatherless, motherless boy.
+Dialogue: 0,0:31:03.25,0:31:04.85,Default,,0,0,0,,From now on
+Dialogue: 0,0:31:06.05,0:31:09.25,Default,,0,0,0,,you are Pope Pius XIII.
+Dialogue: 0,0:31:09.41,0:31:14.77,Default,,0,0,0,,Father and Mother\Nof the entire Catholic Church.
+Dialogue: 0,0:31:32.77,0:31:36.29,Default,,0,0,0,,Allow me to say,\NYour Holiness, what joy!
+Dialogue: 0,0:31:36.45,0:31:37.97,Default,,0,0,0,,What joy!
+Dialogue: 0,0:31:38.13,0:31:42.41,Default,,0,0,0,,The Holy Spirit could not\Nhave illumined us in a better manner.
+Dialogue: 0,0:31:42.57,0:31:46.01,Default,,0,0,0,,In the name of the entire Church,\Nwelcome.
+Dialogue: 0,0:31:46.17,0:31:50.13,Default,,0,0,0,,May your pontificate be long,\Nradiant, and fruitful.
+Dialogue: 0,0:31:51.21,0:31:53.13,Default,,0,0,0,,Let's settle for long.
+Dialogue: 0,0:31:54.97,0:31:56.49,Default,,0,0,0,,What a telling joke!
+Dialogue: 0,0:31:58.61,0:32:00.73,Default,,0,0,0,,Jokes are never telling.
+Dialogue: 0,0:32:00.89,0:32:02.01,Default,,0,0,0,,They're jokes.
+Dialogue: 0,0:32:03.85,0:32:06.21,Default,,0,0,0,,Well, Holy father
+Dialogue: 0,0:32:06.37,0:32:08.49,Default,,0,0,0,,first of all,\Na small piece of information
+Dialogue: 0,0:32:08.65,0:32:11.61,Default,,0,0,0,,of a practical\Nand picturesque nature...
+Dialogue: 0,0:32:11.77,0:32:15.09,Default,,0,0,0,,Under your desk, on the right,\Nyou will find a button.
+Dialogue: 0,0:32:15.25,0:32:18.61,Default,,0,0,0,,If you feel that an encounter\Nis becoming disagreeable
+Dialogue: 0,0:32:18.77,0:32:19.89,Default,,0,0,0,,or a waste of time
+Dialogue: 0,0:32:20.05,0:32:22.81,Default,,0,0,0,,all you have to do is\Nto press it discreetly
+Dialogue: 0,0:32:22.97,0:32:26.21,Default,,0,0,0,,and an assistant will swiftly appear\Nwith some excuse
+Dialogue: 0,0:32:26.37,0:32:29.21,Default,,0,0,0,,liberating you from your engagement.
+Dialogue: 0,0:32:29.37,0:32:31.05,Default,,0,0,0,,He'll lie, in other words.
+Dialogue: 0,0:32:31.21,0:32:35.49,Default,,0,0,0,,Yes, but he'll have plenty of time\Nand opportunity to repent.
+Dialogue: 0,0:32:41.29,0:32:43.41,Default,,0,0,0,,Well, Holy Father, if you agree
+Dialogue: 0,0:32:43.57,0:32:47.45,Default,,0,0,0,,I would like to start\Nwith our top priorities.
+Dialogue: 0,0:32:47.61,0:32:49.45,Default,,0,0,0,,The most urgent of them all
+Dialogue: 0,0:32:50.17,0:32:53.01,Default,,0,0,0,,is your first homily\Nin Saint Peter's Square.
+Dialogue: 0,0:32:53.17,0:32:55.41,Default,,0,0,0,,There is a great deal\Nof agitation about it
+Dialogue: 0,0:32:55.57,0:32:57.93,Default,,0,0,0,,something which I, in my long career
+Dialogue: 0,0:32:58.09,0:33:00.13,Default,,0,0,0,,have never quite seen before.
+Dialogue: 0,0:33:00.29,0:33:04.69,Default,,0,0,0,,The entire office of the Secretary\Nof State is working on it.
+Dialogue: 0,0:33:04.85,0:33:08.37,Default,,0,0,0,,I myself\Nworked all night long on a rough draft
+Dialogue: 0,0:33:08.53,0:33:10.41,Default,,0,0,0,,which I would like to submit you.
+Dialogue: 0,0:33:10.57,0:33:12.93,Default,,0,0,0,,The press and the faithful\Nwho are coming here
+Dialogue: 0,0:33:13.09,0:33:15.13,Default,,0,0,0,,from every corner of the globe
+Dialogue: 0,0:33:15.29,0:33:19.97,Default,,0,0,0,,were all convinced that you were going\Nto deliver your homily today.
+Dialogue: 0,0:33:20.13,0:33:23.61,Default,,0,0,0,,We did an excellent job\Nat calming their spirits
+Dialogue: 0,0:33:23.77,0:33:25.69,Default,,0,0,0,,but at the same time, Your Holiness
+Dialogue: 0,0:33:25.85,0:33:29.93,Default,,0,0,0,,I am sorry to say\Nthat we can only delay for so long.
+Dialogue: 0,0:33:30.09,0:33:32.77,Default,,0,0,0,,Tomorrow would be ideal.
+Dialogue: 0,0:33:32.93,0:33:37.01,Default,,0,0,0,,There, this is the most pressing issue.
+Dialogue: 0,0:33:38.49,0:33:42.73,Default,,0,0,0,,The most pressing issue is my need\Nfor a cup of American coffee.
+Dialogue: 0,0:33:44.57,0:33:47.01,Default,,0,0,0,,Would you make me one, Your Eminence?
+Dialogue: 0,0:33:47.17,0:33:50.53,Default,,0,0,0,,Certainly.\NAmatucci.
+Dialogue: 0,0:33:50.69,0:33:52.09,Default,,0,0,0,,I didn't ask him.
+Dialogue: 0,0:33:53.33,0:33:54.97,Default,,0,0,0,,I asked you.
+Dialogue: 0,0:33:57.57,0:34:00.29,Default,,0,0,0,,It will be a pleasure\Nand an honor for me
+Dialogue: 0,0:34:00.45,0:34:02.77,Default,,0,0,0,,to bring you coffee, Your Holiness.
+Dialogue: 0,0:34:23.65,0:34:27.01,Default,,0,0,0,,Thank you, Your Eminence.\N- It's my duty, Blessed Father.
+Dialogue: 0,0:34:58.65,0:35:01.41,Default,,0,0,0,,Holy Father, now, about your homily
+Dialogue: 0,0:35:01.57,0:35:04.41,Default,,0,0,0,,how would we like to proceed, then?
+Dialogue: 0,0:35:04.57,0:35:05.93,Default,,0,0,0,,Later.
+Dialogue: 0,0:35:06.09,0:35:09.61,Default,,0,0,0,,And has the Holy Father\Nalready thought of some candidates
+Dialogue: 0,0:35:09.77,0:35:12.13,Default,,0,0,0,,for the delicate role\Nof a special assistant?
+Dialogue: 0,0:35:12.29,0:35:14.13,Default,,0,0,0,,- I have an idea.\N- I do too.
+Dialogue: 0,0:35:14.29,0:35:15.77,Default,,0,0,0,,Monsignor Gemelli comes to mind...
+Dialogue: 0,0:35:15.93,0:35:18.65,Default,,0,0,0,,My idea is Sister Mary.
+Dialogue: 0,0:35:24.29,0:35:26.97,Default,,0,0,0,,An admirable idea, Your Holiness
+Dialogue: 0,0:35:27.13,0:35:29.45,Default,,0,0,0,,and completely understandable.
+Dialogue: 0,0:35:30.73,0:35:33.21,Default,,0,0,0,,Allow me to add, however,\Nthat unfortunately
+Dialogue: 0,0:35:33.37,0:35:36.21,Default,,0,0,0,,the Curia has complex mechanisms
+Dialogue: 0,0:35:36.37,0:35:41.09,Default,,0,0,0,,which might seem like astrophysics.
+Dialogue: 0,0:35:41.25,0:35:45.01,Default,,0,0,0,,Therefore, the Holy Father's\Ninevitable lack of experience
+Dialogue: 0,0:35:45.17,0:35:49.25,Default,,0,0,0,,together with Sister Mary's\Ninevitable lack of experience
+Dialogue: 0,0:35:49.41,0:35:52.69,Default,,0,0,0,,would lead me to suggest\Nan internal contribution...
+Dialogue: 0,0:35:52.85,0:35:57.33,Default,,0,0,0,,Of course I realize how central\NSister Mary seems to you.
+Dialogue: 0,0:35:57.49,0:36:01.05,Default,,0,0,0,,We could invent\Na sort of ad hoc role for her.
+Dialogue: 0,0:36:01.21,0:36:04.53,Default,,0,0,0,,We don't lack for imagination\Naround here.
+Dialogue: 0,0:36:05.69,0:36:06.89,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:36:08.29,0:36:11.25,Default,,0,0,0,,You're exactly right, Voiello.\NShe's central.
+Dialogue: 0,0:36:12.73,0:36:16.21,Default,,0,0,0,,Sister Mary took me in at her orphanage\Nwhen I was 7 years old
+Dialogue: 0,0:36:16.37,0:36:19.29,Default,,0,0,0,,she raised me and she loved me.\NShe made me a good Christian.
+Dialogue: 0,0:36:19.45,0:36:21.09,Default,,0,0,0,,A great Christian!
+Dialogue: 0,0:36:23.97,0:36:27.21,Default,,0,0,0,,Monsignor Gemelli is experienced,\NI would rely on him.
+Dialogue: 0,0:36:27.37,0:36:29.57,Default,,0,0,0,,Perhaps you didn't hear me correctly.
+Dialogue: 0,0:36:30.33,0:36:34.17,Default,,0,0,0,,Perhaps, Holy Father.\NMy English does have its limits.
+Dialogue: 0,0:36:34.85,0:36:36.41,Default,,0,0,0,,You'd better improve it then.
+Dialogue: 0,0:36:37.97,0:36:41.05,Default,,0,0,0,,Sister Mary\Nwill be my special assistant.
+Dialogue: 0,0:36:41.89,0:36:44.13,Default,,0,0,0,,As you wish, Holy Father.
+Dialogue: 0,0:36:44.29,0:36:47.41,Default,,0,0,0,,Then, of course,\Nthere is the matter of drafting
+Dialogue: 0,0:36:47.57,0:36:51.41,Default,,0,0,0,,and delivering your address\Nto the College of Cardinals.
+Dialogue: 0,0:36:51.57,0:36:53.17,Default,,0,0,0,,They're all still here.
+Dialogue: 0,0:36:53.33,0:36:56.73,Default,,0,0,0,,They will not leave the Vatican\Nuntil you address them.
+Dialogue: 0,0:36:58.13,0:36:59.17,Default,,0,0,0,,Later.
+Dialogue: 0,0:36:59.33,0:37:01.89,Default,,0,0,0,,In the office of the Secretary
+Dialogue: 0,0:37:02.05,0:37:04.17,Default,,0,0,0,,we have been wondering\Nif the Holy Father
+Dialogue: 0,0:37:04.33,0:37:07.61,Default,,0,0,0,,would care to provide us\Nwith some indications
+Dialogue: 0,0:37:07.77,0:37:10.69,Default,,0,0,0,,regarding the draft of an encyclical.
+Dialogue: 0,0:37:11.05,0:37:11.81,Default,,0,0,0,,Later.
+Dialogue: 0,0:37:13.53,0:37:15.41,Default,,0,0,0,,The prefects\Nof the various congregations
+Dialogue: 0,0:37:15.57,0:37:19.41,Default,,0,0,0,,are of course eager\Nto see you with their own eyes.
+Dialogue: 0,0:37:19.57,0:37:23.81,Default,,0,0,0,,But I imagine that you would like\Nto deal with this matter... later.
+Dialogue: 0,0:37:24.49,0:37:25.61,Default,,0,0,0,,No, now.
+Dialogue: 0,0:37:26.93,0:37:30.93,Default,,0,0,0,,First off, I want to meet the Prefect\Nfor the Congregation for the Clergy.
+Dialogue: 0,0:37:33.49,0:37:35.53,Default,,0,0,0,,At any rate, Holy Father
+Dialogue: 0,0:37:35.69,0:37:39.81,Default,,0,0,0,,I understand your reluctance\Nabout the encyclical.
+Dialogue: 0,0:37:39.97,0:37:42.33,Default,,0,0,0,,Your predecessor\Nalways made me laugh
+Dialogue: 0,0:37:42.49,0:37:44.01,Default,,0,0,0,,when he said that...
+Dialogue: 0,0:37:44.17,0:37:48.53,Default,,0,0,0,,an encyclical is like Proust's\N"In Search of Lost Time".
+Dialogue: 0,0:37:48.69,0:37:51.77,Default,,0,0,0,,Everyone quotes it,\Nbut no one reads it.
+Dialogue: 0,0:38:04.17,0:38:05.93,Default,,0,0,0,,Are you sleeping, Holy Father?
+Dialogue: 0,0:38:07.89,0:38:09.65,Default,,0,0,0,,No Your Eminence, I'm praying.
+Dialogue: 0,0:38:11.37,0:38:12.65,Default,,0,0,0,,For you.
+Dialogue: 0,0:38:23.49,0:38:26.37,Default,,0,0,0,,Stop looking at the Venus\Nof Willendorf in that way.
+Dialogue: 0,0:38:39.65,0:38:41.73,Default,,0,0,0,,Holy Father, Holy Father
+Dialogue: 0,0:38:41.89,0:38:44.89,Default,,0,0,0,,smoking is not allowed\Nin the papal palace!
+Dialogue: 0,0:38:46.77,0:38:48.01,Default,,0,0,0,,Is that so?
+Dialogue: 0,0:38:50.09,0:38:53.21,Default,,0,0,0,,Who decided that?\N- John Paul II.
+Dialogue: 0,0:38:53.37,0:38:55.21,Default,,0,0,0,,The Pope?\N- Yes, the Pope.
+Dialogue: 0,0:38:56.37,0:38:57.93,Default,,0,0,0,,There's a new Pope now.
+Dialogue: 0,0:38:59.77,0:39:00.77,Default,,0,0,0,,True.
+Dialogue: 0,0:39:04.17,0:39:06.33,Default,,0,0,0,,- Your Eminence...\N- Yes, Holy Father.
+Dialogue: 0,0:39:06.49,0:39:08.97,Default,,0,0,0,,You're too tied to the past.
+Dialogue: 0,0:39:09.13,0:39:12.89,Default,,0,0,0,,They say the same thing about you,\NYour Holiness.
+Dialogue: 0,0:39:14.57,0:39:18.77,Default,,0,0,0,,The past is an enormous place,\Nwith all sorts of things inside.
+Dialogue: 0,0:39:20.37,0:39:22.29,Default,,0,0,0,,Not so with the present.
+Dialogue: 0,0:39:22.97,0:39:24.89,Default,,0,0,0,,The present is merely\Na narrow opening
+Dialogue: 0,0:39:25.05,0:39:26.77,Default,,0,0,0,,with room for only one pair of eyes.
+Dialogue: 0,0:39:29.49,0:39:30.49,Default,,0,0,0,,Mine.
+Dialogue: 0,0:39:57.29,0:39:59.89,Default,,0,0,0,,Your eminence.\N- Yes.
+Dialogue: 0,0:40:00.77,0:40:02.61,Default,,0,0,0,,Our top priorities.
+Dialogue: 0,0:40:02.77,0:40:05.13,Default,,0,0,0,,Here I am. As I was saying...
+Dialogue: 0,0:40:05.29,0:40:08.53,Default,,0,0,0,,You will be in charge of politics
+Dialogue: 0,0:40:08.69,0:40:11.25,Default,,0,0,0,,finance, theology
+Dialogue: 0,0:40:11.41,0:40:13.81,Default,,0,0,0,,appointments and promotions.
+Dialogue: 0,0:40:13.97,0:40:16.41,Default,,0,0,0,,I will take care of worldly matters
+Dialogue: 0,0:40:16.57,0:40:19.53,Default,,0,0,0,,travel, adulation of the masses,\Ncelebrations.
+Dialogue: 0,0:40:19.69,0:40:23.37,Default,,0,0,0,,A most effective division\Nof roles, Holy Father.
+Dialogue: 0,0:40:24.97,0:40:27.73,Default,,0,0,0,,- Your Eminence.\N- Yes, Blessed Father?
+Dialogue: 0,0:40:27.89,0:40:29.65,Default,,0,0,0,,I was just kidding.
+Dialogue: 0,0:40:30.89,0:40:34.13,Default,,0,0,0,,That wasn't obvious?\N- Hardly!
+Dialogue: 0,0:40:34.89,0:40:39.73,Default,,0,0,0,,So, as I was saying,\Nour top priorities are...
+Dialogue: 0,0:40:40.29,0:40:43.89,Default,,0,0,0,,One: the Radio Vatican\Nsignal needs boosting.
+Dialogue: 0,0:40:44.05,0:40:47.37,Default,,0,0,0,,It is unacceptable\Nthat reception is so poor.
+Dialogue: 0,0:40:47.53,0:40:52.17,Default,,0,0,0,,Two: the pope wants to see\Nall the gifts the pope receives.
+Dialogue: 0,0:40:52.33,0:40:55.93,Default,,0,0,0,,Have a storage facility fitted out\Nfor storing all the gifts I receive.
+Dialogue: 0,0:40:56.09,0:41:00.53,Default,,0,0,0,,Three: the Vatican must immediately\Nbuy back the papal tiara
+Dialogue: 0,0:41:00.69,0:41:03.41,Default,,0,0,0,,from the basilica in Washington DC
+Dialogue: 0,0:41:03.57,0:41:08.69,Default,,0,0,0,,which my predecessors,\Nwho favored sobriety over tradition
+Dialogue: 0,0:41:08.85,0:41:10.77,Default,,0,0,0,,imprudently let go.
+Dialogue: 0,0:41:11.57,0:41:12.89,Default,,0,0,0,,And four:
+Dialogue: 0,0:41:13.85,0:41:17.77,Default,,0,0,0,,Sister Mary will also look after you.
+Dialogue: 0,0:41:18.97,0:41:21.13,Default,,0,0,0,,She will oversee all your activities
+Dialogue: 0,0:41:21.29,0:41:24.17,Default,,0,0,0,,and report directly back to me.
+Dialogue: 0,0:41:26.13,0:41:28.25,Default,,0,0,0,,She will be your guardian angel.
+Dialogue: 0,0:41:30.37,0:41:33.41,Default,,0,0,0,,I'm sixty years, Holy Father.
+Dialogue: 0,0:41:33.57,0:41:35.41,Default,,0,0,0,,I don't need a guardian angel.
+Dialogue: 0,0:41:35.57,0:41:38.81,Default,,0,0,0,,Oh, we all need a guardian angel,\NVoiello.
+Dialogue: 0,0:41:38.97,0:41:42.57,Default,,0,0,0,,Especially unscrupulous,\Nambiguous men.
+Dialogue: 0,0:41:43.29,0:41:46.53,Default,,0,0,0,,Then, please,\Nallow me to choose mine myself.
+Dialogue: 0,0:41:46.69,0:41:48.61,Default,,0,0,0,,In another life.
+Dialogue: 0,0:41:48.77,0:41:50.61,Default,,0,0,0,,In this life
+Dialogue: 0,0:41:50.77,0:41:54.33,Default,,0,0,0,,the Pope chooses\Nyour guardian angel for you.
+Dialogue: 0,0:41:54.49,0:41:57.33,Default,,0,0,0,,And he is the Pope.
+Dialogue: 0,0:41:59.17,0:42:00.65,Default,,0,0,0,,Did you call for me, Holy Father?
+Dialogue: 0,0:42:41.37,0:42:44.25,Default,,0,0,0,,It all comes back to this\Nin the end, doesn't it?
+Dialogue: 0,0:42:44.41,0:42:45.65,Default,,0,0,0,,To the mother.
+Dialogue: 0,0:42:50.29,0:42:53.17,Default,,0,0,0,,What was your mother like,\NMonsignor Gutierrez?
+Dialogue: 0,0:42:56.53,0:43:01.05,Default,,0,0,0,,She was a woman\Nwho did not scorn wickedness.
+Dialogue: 0,0:43:01.21,0:43:04.01,Default,,0,0,0,,And it had the effect of creating\Na son full of goodness.
+Dialogue: 0,0:43:06.33,0:43:08.33,Default,,0,0,0,,I inquired about you.
+Dialogue: 0,0:43:09.77,0:43:13.37,Default,,0,0,0,,Everyone tells me you are\Na shining example of goodness.
+Dialogue: 0,0:43:14.57,0:43:17.53,Default,,0,0,0,,I thank you for believing them,\NHoly Father.
+Dialogue: 0,0:43:18.97,0:43:20.77,Default,,0,0,0,,It is I who should thank you
+Dialogue: 0,0:43:20.93,0:43:24.13,Default,,0,0,0,,for allowing me to be here\Nwithout hordes of tourists.
+Dialogue: 0,0:43:24.29,0:43:26.33,Default,,0,0,0,,That's my duty, Holy Father.
+Dialogue: 0,0:43:26.49,0:43:29.13,Default,,0,0,0,,Was it hard to close off\Nthe Basilica to tourists?
+Dialogue: 0,0:43:29.29,0:43:33.65,Default,,0,0,0,,No, no, all we had to do\Nwas hang up a sign saying "closed".
+Dialogue: 0,0:43:44.85,0:43:48.49,Default,,0,0,0,,I will never shed\Nmy aversion to tourists.
+Dialogue: 0,0:43:50.49,0:43:52.57,Default,,0,0,0,,Why is that, Holy Father?
+Dialogue: 0,0:43:58.33,0:44:00.97,Default,,0,0,0,,Because they are just passing through.
+Dialogue: 0,0:44:08.45,0:44:12.73,Default,,0,0,0,,I was late\Nbecause I couldn't find your office.
+Dialogue: 0,0:44:12.89,0:44:15.17,Default,,0,0,0,,I know. You opened the wrong door
+Dialogue: 0,0:44:15.33,0:44:18.41,Default,,0,0,0,,and found yourself face to face\Nwith some visitors to our museum.
+Dialogue: 0,0:44:18.57,0:44:20.97,Default,,0,0,0,,So you've been inquiring about me too.
+Dialogue: 0,0:44:21.69,0:44:25.65,Default,,0,0,0,,It's very difficult to keep\Nanything secret here in the Vatican.
+Dialogue: 0,0:44:26.65,0:44:29.13,Default,,0,0,0,,Rumors fly so quickly
+Dialogue: 0,0:44:29.29,0:44:33.57,Default,,0,0,0,,that sometimes they arrive\Neven before the event has taken place.
+Dialogue: 0,0:44:34.69,0:44:38.17,Default,,0,0,0,,That's quite a useful piece\Nof information for my future.
+Dialogue: 0,0:44:38.33,0:44:41.65,Default,,0,0,0,,Which is exactly what it was\Nintended to be, Holy Father.
+Dialogue: 0,0:44:42.29,0:44:45.73,Default,,0,0,0,,What is one to do, Monsignor?
+Dialogue: 0,0:44:45.89,0:44:50.25,Default,,0,0,0,,It's the times.\NIn America, we call it gossip.
+Dialogue: 0,0:44:50.77,0:44:54.29,Default,,0,0,0,,Here in the Vatican\Nwe call it calumny.
+Dialogue: 0,0:44:55.37,0:44:56.81,Default,,0,0,0,,This way.
+Dialogue: 0,0:45:08.45,0:45:11.21,Default,,0,0,0,,How many years\Nhave you been at the Vatican?
+Dialogue: 0,0:45:11.37,0:45:13.89,Default,,0,0,0,,So many that I've stopped counting.
+Dialogue: 0,0:45:14.05,0:45:15.61,Default,,0,0,0,,Do you like it here?
+Dialogue: 0,0:45:15.77,0:45:18.33,Default,,0,0,0,,Yes, I feel safe here.
+Dialogue: 0,0:45:20.05,0:45:23.37,Default,,0,0,0,,It's as if time were dead.
+Dialogue: 0,0:45:26.77,0:45:28.29,Default,,0,0,0,,Speaking of that time
+Dialogue: 0,0:45:28.45,0:45:30.57,Default,,0,0,0,,the other day, during the Conclave
+Dialogue: 0,0:45:30.73,0:45:32.65,Default,,0,0,0,,I read an Italian newspaper.
+Dialogue: 0,0:45:33.89,0:45:38.69,Default,,0,0,0,,It was an article\Nabout this politician
+Dialogue: 0,0:45:38.85,0:45:42.01,Default,,0,0,0,,who had hidden some compromising files
+Dialogue: 0,0:45:42.17,0:45:45.33,Default,,0,0,0,,in the gaps\Nbetween the walls of his house.
+Dialogue: 0,0:45:45.49,0:45:47.53,Default,,0,0,0,,Yes, I read about that as well.
+Dialogue: 0,0:45:47.97,0:45:49.01,Default,,0,0,0,,I thought...
+Dialogue: 0,0:45:52.37,0:45:55.53,Default,,0,0,0,,I wouldn't need to hide anything\Nin the gaps in my house.
+Dialogue: 0,0:45:58.73,0:46:01.29,Default,,0,0,0,,Because my mind is a gap.
+Dialogue: 0,0:46:02.53,0:46:07.05,Default,,0,0,0,,And everything that is hidden from me
+Dialogue: 0,0:46:08.37,0:46:10.17,Default,,0,0,0,,sooner or later...
+Dialogue: 0,0:46:12.13,0:46:13.45,Default,,0,0,0,,is revealed.
+Dialogue: 0,0:46:15.89,0:46:20.09,Default,,0,0,0,,As if it were being entrusted to me.
+Dialogue: 0,0:46:23.37,0:46:25.61,Default,,0,0,0,,A precious skill\Nfor leading the Church.
+Dialogue: 0,0:46:29.97,0:46:32.17,Default,,0,0,0,,It's not a skill, Gutierrez...
+Dialogue: 0,0:46:34.97,0:46:36.45,Default,,0,0,0,,it's my destiny.
+Dialogue: 0,0:48:43.09,0:48:45.21,Default,,0,0,0,,See how beautiful it is?
+Dialogue: 0,0:48:48.33,0:48:49.61,Default,,0,0,0,,Fabulous.
+Dialogue: 0,0:48:58.77,0:49:01.13,Default,,0,0,0,,Go on, Tommaso, don't be afraid.
+Dialogue: 0,0:49:03.41,0:49:06.37,Default,,0,0,0,,But violating the secret\Nof the confessional is...
+Dialogue: 0,0:49:06.41,0:49:07.57,Default,,0,0,0,,No, no, it's not.
+Dialogue: 0,0:49:07.73,0:49:10.93,Default,,0,0,0,,Not if the information\Nis intended for me, the Pontiff
+Dialogue: 0,0:49:11.09,0:49:13.37,Default,,0,0,0,,and is for the survival of our Church.
+Dialogue: 0,0:49:16.49,0:49:18.17,Default,,0,0,0,,Don't disappoint me, Tommaso.
+Dialogue: 0,0:49:18.33,0:49:22.93,Default,,0,0,0,,Your Holiness,\NI'm just a poor, simple priest
+Dialogue: 0,0:49:23.09,0:49:25.61,Default,,0,0,0,,and the secret of the confessional
+Dialogue: 0,0:49:25.77,0:49:27.93,Default,,0,0,0,,is the only respectable thing I have.
+Dialogue: 0,0:49:28.09,0:49:30.97,Default,,0,0,0,,Today. But think of tomorrow.
+Dialogue: 0,0:49:31.13,0:49:34.65,Default,,0,0,0,,Scarlet robes and the ring\Nare in your future.
+Dialogue: 0,0:49:36.09,0:49:37.49,Default,,0,0,0,,The cardinalship, my dear.
+Dialogue: 0,0:49:38.25,0:49:40.37,Default,,0,0,0,,Which is much more respectable.
+Dialogue: 0,0:49:42.29,0:49:43.97,Default,,0,0,0,,What if someone hears us?
+Dialogue: 0,0:49:46.17,0:49:47.73,Default,,0,0,0,,Only he can hear us up here.
+Dialogue: 0,0:49:49.77,0:49:51.21,Default,,0,0,0,,Who knows where he is?
+Dialogue: 0,0:49:55.69,0:49:58.25,Default,,0,0,0,,There! By the big dipper.
+Dialogue: 0,0:49:59.81,0:50:01.13,Default,,0,0,0,,That's where God's house is.
+Dialogue: 0,0:50:02.57,0:50:03.69,Default,,0,0,0,,God's house!
+Dialogue: 0,0:50:04.97,0:50:06.17,Default,,0,0,0,,What's it like?
+Dialogue: 0,0:50:07.29,0:50:11.37,Default,,0,0,0,,Half of a duplex,\Nwith a private swimming pool.
+Dialogue: 0,0:50:14.37,0:50:16.77,Default,,0,0,0,,Come on now, tell me people's sins.
+Dialogue: 0,0:50:19.57,0:50:20.77,Default,,0,0,0,,Well...
+Dialogue: 0,0:50:22.93,0:50:26.13,Default,,0,0,0,,...have I already told you\Nabout Voiello's impure thoughts
+Dialogue: 0,0:50:26.29,0:50:28.81,Default,,0,0,0,,about the Venus of Willendorf?
+Dialogue: 0,0:50:28.97,0:50:31.61,Default,,0,0,0,,Yes, yes you told me already. What else?\N- Yes.
+Dialogue: 0,0:50:37.89,0:50:39.89,Default,,0,0,0,,No, nothing...
+Dialogue: 0,0:50:41.25,0:50:46.25,Default,,0,0,0,,Cardinal Aguirre did an imitation\Nof you today, Your Holiness.
+Dialogue: 0,0:50:47.09,0:50:49.49,Default,,0,0,0,,Everyone laughed.\N- Did you laugh?
+Dialogue: 0,0:50:55.89,0:50:59.73,Default,,0,0,0,,Yes, but to myself. So no one noticed.
+Dialogue: 0,0:51:01.05,0:51:03.89,Default,,0,0,0,,Good. What else?
+Dialogue: 0,0:51:06.97,0:51:11.33,Default,,0,0,0,,Everybody is wondering\Nwho Sister Mary is to you
+Dialogue: 0,0:51:11.49,0:51:13.17,Default,,0,0,0,,what she's doing here.
+Dialogue: 0,0:51:14.53,0:51:16.09,Default,,0,0,0,,What else?
+Dialogue: 0,0:51:16.25,0:51:18.89,Default,,0,0,0,,Everybody is also wondering:
+Dialogue: 0,0:51:19.05,0:51:22.77,Default,,0,0,0,,is the Pope thinking\Nabout his first homily?
+Dialogue: 0,0:51:24.09,0:51:26.17,Default,,0,0,0,,I ask myself\Nthe same thing all the time.
+Dialogue: 0,0:51:26.33,0:51:27.97,Default,,0,0,0,,Of course I'm thinking about it.
+Dialogue: 0,0:51:29.65,0:51:32.85,Default,,0,0,0,,It's all I think about.\NI even dreamed about it.
+Dialogue: 0,0:51:35.49,0:51:37.53,Default,,0,0,0,,I'm going to let you in on a secret:
+Dialogue: 0,0:51:38.73,0:51:41.69,Default,,0,0,0,,ever since I was little,\NI've learned to confound people's ideas
+Dialogue: 0,0:51:41.85,0:51:44.21,Default,,0,0,0,,of what's going on in my head.
+Dialogue: 0,0:51:45.17,0:51:47.33,Default,,0,0,0,,You're so wise, Holy Father.
+Dialogue: 0,0:51:48.29,0:51:49.85,Default,,0,0,0,,Not only that
+Dialogue: 0,0:51:50.89,0:51:53.81,Default,,0,0,0,,I'm also intransigent
+Dialogue: 0,0:51:53.97,0:51:55.29,Default,,0,0,0,,irritable
+Dialogue: 0,0:51:57.05,0:51:58.69,Default,,0,0,0,,vindictive...
+Dialogue: 0,0:52:01.17,0:52:04.05,Default,,0,0,0,,and I have a prodigious memory.
+Dialogue: 0,0:52:05.29,0:52:07.33,Default,,0,0,0,,And now I want to make my confession.
+Dialogue: 0,0:52:07.37,0:52:09.41,Default,,0,0,0,,Fine. Let's go back downstairs.
+Dialogue: 0,0:52:09.45,0:52:11.73,Default,,0,0,0,,No, here.
+Dialogue: 0,0:52:12.77,0:52:14.21,Default,,0,0,0,,Before the house of God.
+Dialogue: 0,0:52:15.05,0:52:17.09,Default,,0,0,0,,Oh... okay.
+Dialogue: 0,0:52:21.29,0:52:24.57,Default,,0,0,0,,{\i1}In nomine Patris,\Net Filii et Spiritus Sancti.{\i0}
+Dialogue: 0,0:52:24.73,0:52:28.29,Default,,0,0,0,,God, my conscience does not accuse me
+Dialogue: 0,0:52:29.85,0:52:33.77,Default,,0,0,0,,because you do not believe\NI am capable of repenting.
+Dialogue: 0,0:52:34.89,0:52:37.33,Default,,0,0,0,,And therefore,\NI do not believe in you.
+Dialogue: 0,0:52:38.77,0:52:42.53,Default,,0,0,0,,I don't believe you are capable\Nof saving me from myself.
+Dialogue: 0,0:52:43.97,0:52:47.73,Default,,0,0,0,,Holy Father, what are you saying?
+Dialogue: 0,0:52:49.85,0:52:52.97,Default,,0,0,0,,I'm saying that I don't believe in God,\NTommaso.
+Dialogue: 0,0:52:53.13,0:52:55.41,Default,,0,0,0,,What are you saying, Blessed Father?
+Dialogue: 0,0:52:55.57,0:52:57.05,Default,,0,0,0,,Tommaso, Tommaso.
+Dialogue: 0,0:53:00.77,0:53:01.97,Default,,0,0,0,,I was joking.
